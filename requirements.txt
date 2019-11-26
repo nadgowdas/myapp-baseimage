@@ -1,4 +1,3 @@
-# App Dependencies
 Flask==1.1.1
 Flask-API==1.1
 Flask-Bootstrap==3.3.7.1
