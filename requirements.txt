@@ -1,0 +1,10 @@
+# App Dependencies
+Flask==1.1.1
+Flask-API==1.1
+Flask-Bootstrap==3.3.7.1
+Flask-HTTPAuth==3.3.0
+Flask-Cors==3.0.8
+flask-nav==0.6
+flask-restplus==0.13.0
+Flask-WTF==0.14.2
+pathvalidate==0.29.0
