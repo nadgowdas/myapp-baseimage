@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM python:3.7-slim
 
 # Create working folder and install dependencies
 WORKDIR /app
