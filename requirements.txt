@@ -7,3 +7,6 @@ flask-nav==0.6
 flask-restplus==0.13.0
 Flask-WTF==0.14.2
 pathvalidate==0.29.0
+
+feedgen==0.8.0
+validators==0.12.2
